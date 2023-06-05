@@ -1,5 +1,4 @@
 import React from "react";
-import './react.css'
 
 export default function ReactApp() {
   return (

@@ -6,7 +6,7 @@
     "dev": "npm run open-browser && next dev",
     "open-browser": "start http://localhost:3000/",
     "build": "next build",
-    "start": "next start",
+    "start": "npx serve@latest dist",
     "lint": "next lint"
   },
   "dependencies": {
